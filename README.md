@@ -1,4 +1,4 @@
-# bibli
+# Gráficos
 
 ## Project setup
 ```
